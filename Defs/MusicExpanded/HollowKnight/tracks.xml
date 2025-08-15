@@ -1,0 +1,482 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+  <!-- Ambient Tracks -->
+  <MusicExpanded.TrackDef>
+    <defName>ME_HK_001</defName>
+    <label>Hollow Knight - Enter Hallownest</label>
+    <clipPath>MusicExpanded/HollowKnight/02 Enter Hallownest</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_HK_002</defName>
+    <label>Hollow Knight - Dirtmouth</label>
+    <clipPath>MusicExpanded/HollowKnight/03 Dirtmouth</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_HK_003</defName>
+    <label>Hollow Knight - Forgotten Crossroads</label>
+    <clipPath>MusicExpanded/HollowKnight/04 Forgotten Crossroads</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_HK_004</defName>
+    <label>Hollow Knight - Forgotten Crossroads (Bass)</label>
+    <clipPath>MusicExpanded/HollowKnight/05 Forgotten Crossroads (Bass)</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_HK_005</defName>
+    <label>Hollow Knight - False Knight</label>
+    <clipPath>MusicExpanded/HollowKnight/06 False Knight</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_HK_006</defName>
+    <label>Hollow Knight - Shaman Theme</label>
+    <clipPath>MusicExpanded/HollowKnight/07 Shaman Theme</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_HK_007</defName>
+    <label>Hollow Knight - Greenpath</label>
+    <clipPath>MusicExpanded/HollowKnight/09 Greenpath</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_HK_008</defName>
+    <label>Hollow Knight - Greenpath (Bass)</label>
+    <clipPath>MusicExpanded/HollowKnight/11 Greenpath (Bass)</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_HK_009</defName>
+    <label>Hollow Knight - Reflection</label>
+    <clipPath>MusicExpanded/HollowKnight/14 Reflection</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_HK_010</defName>
+    <label>Hollow Knight - Reflection (Gramophone Bench)</label>
+    <clipPath>MusicExpanded/HollowKnight/15 Reflection (Gramophone Bench)</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_HK_011</defName>
+    <label>Hollow Knight - City of Tears</label>
+    <clipPath>MusicExpanded/HollowKnight/16 City of Tears</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_HK_012</defName>
+    <label>Hollow Knight - City of Tears (Indoors)</label>
+    <clipPath>MusicExpanded/HollowKnight/17 City of Tears (Indoors)</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_HK_013</defName>
+    <label>Hollow Knight - Crystal Peak</label>
+    <clipPath>MusicExpanded/HollowKnight/20 Crystal Peak</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_HK_014</defName>
+    <label>Hollow Knight - Crystal Peak (Action)</label>
+    <clipPath>MusicExpanded/HollowKnight/21 Crystal Peak (Action)</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_HK_015</defName>
+    <label>Hollow Knight - Crystal Peak (Bass)</label>
+    <clipPath>MusicExpanded/HollowKnight/22 Crystal Peak (Bass)</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_HK_016</defName>
+    <label>Hollow Knight - Abandoned Temple</label>
+    <clipPath>MusicExpanded/HollowKnight/23 Abandoned Temple</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_HK_017</defName>
+    <label>Hollow Knight - Shade Approach</label>
+    <clipPath>MusicExpanded/HollowKnight/24 Shade Approach</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_HK_018</defName>
+    <label>Hollow Knight - The Shade</label>
+    <clipPath>MusicExpanded/HollowKnight/25 The Shade</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_HK_019</defName>
+    <label>Hollow Knight - Fungal Wastes</label>
+    <clipPath>MusicExpanded/HollowKnight/26 Fungal Wastes</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_HK_020</defName>
+    <label>Hollow Knight - Fungal Wastes (Alt)</label>
+    <clipPath>MusicExpanded/HollowKnight/27 Fungal Wastes (Alt)</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_HK_021</defName>
+    <label>Hollow Knight - Fungal Wastes (Bass)</label>
+    <clipPath>MusicExpanded/HollowKnight/28 Fungal Wastes (Bass)</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_HK_022</defName>
+    <label>Hollow Knight - Fog Canyon</label>
+    <clipPath>MusicExpanded/HollowKnight/30 Fog Canyon</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_HK_023</defName>
+    <label>Hollow Knight - Soul Sanctum</label>
+    <clipPath>MusicExpanded/HollowKnight/31 Soul Sanctum</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_HK_024</defName>
+    <label>Hollow Knight - Resting Grounds</label>
+    <clipPath>MusicExpanded/HollowKnight/32 Resting Grounds</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_HK_025</defName>
+    <label>Hollow Knight - Marissa's Song</label>
+    <clipPath>MusicExpanded/HollowKnight/33 Marissa's Song</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_HK_026</defName>
+    <label>Hollow Knight - Waterways</label>
+    <clipPath>MusicExpanded/HollowKnight/34 Waterways</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_HK_027</defName>
+    <label>Hollow Knight - Waterways (Action)</label>
+    <clipPath>MusicExpanded/HollowKnight/35 Waterways (Action)</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_HK_028</defName>
+    <label>Hollow Knight - Queen's Gardens</label>
+    <clipPath>MusicExpanded/HollowKnight/36 Queen's Gardens</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_HK_029</defName>
+    <label>Hollow Knight - Queen's Gardens (Action)</label>
+    <clipPath>MusicExpanded/HollowKnight/37 Queen's Gardens (Action)</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_HK_030</defName>
+    <label>Hollow Knight - Queen's Gardens (Sub)</label>
+    <clipPath>MusicExpanded/HollowKnight/38 Queen's Gardens (Sub)</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_HK_031</defName>
+    <label>Hollow Knight - The White Lady</label>
+    <clipPath>MusicExpanded/HollowKnight/39 The White Lady</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_HK_032</defName>
+    <label>Hollow Knight - Broken Vessel</label>
+    <clipPath>MusicExpanded/HollowKnight/40 Broken Vessel</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_HK_033</defName>
+    <label>Hollow Knight - Kingdom's Edge</label>
+    <clipPath>MusicExpanded/HollowKnight/41 Kingdom's Edge</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_HK_034</defName>
+    <label>Hollow Knight - Nosk</label>
+    <clipPath>MusicExpanded/HollowKnight/42 Nosk</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_HK_035</defName>
+    <label>Hollow Knight - Dream</label>
+    <clipPath>MusicExpanded/HollowKnight/43 Dream</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_HK_036</defName>
+    <label>Hollow Knight - Dream (Cello)</label>
+    <clipPath>MusicExpanded/HollowKnight/44 Dream (Cello)</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_HK_037</defName>
+    <label>Hollow Knight - White Palace</label>
+    <clipPath>MusicExpanded/HollowKnight/46 White Palace</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_HK_038</defName>
+    <label>Hollow Knight - Sealed Vessel</label>
+    <clipPath>MusicExpanded/HollowKnight/47 Sealed Vessel</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_HK_039</defName>
+    <label>Hollow Knight - The Hive</label>
+    <clipPath>MusicExpanded/HollowKnight/48 The Hive</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_HK_040</defName>
+    <label>Hollow Knight - Hive Knight</label>
+    <clipPath>MusicExpanded/HollowKnight/49 Hive Knight</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_HK_041</defName>
+    <label>Hollow Knight - Truth, Beauty, and Hatred</label>
+    <clipPath>MusicExpanded/HollowKnight/50 Truth, Beauty, and Hatred</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_HK_042</defName>
+    <label>Hollow Knight - Deepnest</label>
+    <clipPath>MusicExpanded/HollowKnight/51 Deepnest</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_HK_043</defName>
+    <label>Hollow Knight - Brumm's Accordion (Nightmare Lantern)</label>
+    <clipPath>MusicExpanded/HollowKnight/52 Brumm's Accordion (Nightmare Lantern)</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_HK_044</defName>
+    <label>Hollow Knight - Dreamers</label>
+    <clipPath>MusicExpanded/HollowKnight/56 Dreamers</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_HK_045</defName>
+    <label>Hollow Knight - Pale Court</label>
+    <clipPath>MusicExpanded/HollowKnight/57 Pale Court</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_HK_046</defName>
+    <label>Hollow Knight - Pale King's Throne</label>
+    <clipPath>MusicExpanded/HollowKnight/58 Pale King's Throne</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_HK_047</defName>
+    <label>Hollow Knight - Gods and Glory</label>
+    <clipPath>MusicExpanded/HollowKnight/60 Gods and Glory</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_HK_048</defName>
+    <label>Hollow Knight - Daughter of Hallownest</label>
+    <clipPath>MusicExpanded/HollowKnight/61 Daughter of Hallownest</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_HK_049</defName>
+    <label>Hollow Knight - Godhome</label>
+    <clipPath>MusicExpanded/HollowKnight/62 Godhome</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_HK_050</defName>
+    <label>Hollow Knight - Sisters of Battle</label>
+    <clipPath>MusicExpanded/HollowKnight/63 Sisters of Battle</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_HK_051</defName>
+    <label>Hollow Knight - Haunted Foes</label>
+    <clipPath>MusicExpanded/HollowKnight/64 Haunted Foes</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_HK_052</defName>
+    <label>Hollow Knight - Furious Gods</label>
+    <clipPath>MusicExpanded/HollowKnight/65 Furious Gods</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_HK_053</defName>
+    <label>Hollow Knight - Pure Vessel</label>
+    <clipPath>MusicExpanded/HollowKnight/66 Pure Vessel</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_HK_054</defName>
+    <label>Hollow Knight - NPC Room (Optional)</label>
+    <clipPath>MusicExpanded/HollowKnight/74 NPC Room (Optional)</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_HK_055</defName>
+    <label>Hollow Knight - Mage Under Glass</label>
+    <clipPath>MusicExpanded/HollowKnight/75 Mage Under Glass</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_HK_056</defName>
+    <label>Hollow Knight - Infected Crossroads</label>
+    <clipPath>MusicExpanded/HollowKnight/77 Infected Crossroads</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_HK_057</defName>
+    <label>Hollow Knight - Abyss</label>
+    <clipPath>MusicExpanded/HollowKnight/78 Abyss</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_HK_058</defName>
+    <label>Hollow Knight - Birthplace (Stage 1)</label>
+    <clipPath>MusicExpanded/HollowKnight/79 Birthplace (Stage 1)</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_HK_059</defName>
+    <label>Hollow Knight - Birthplace (Stage 2)</label>
+    <clipPath>MusicExpanded/HollowKnight/80 Birthplace (Stage 2)</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_HK_060</defName>
+    <label>Hollow Knight - Birthplace (Stage 3)</label>
+    <clipPath>MusicExpanded/HollowKnight/81 Birthplace (Stage 3)</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_HK_061</defName>
+    <label>Hollow Knight - Birthplace (Stage 4)</label>
+    <clipPath>MusicExpanded/HollowKnight/82 Birthplace (Stage 4)</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_HK_062</defName>
+    <label>Hollow Knight - Birthplace (Stage 5)</label>
+    <clipPath>MusicExpanded/HollowKnight/83 Birthplace (Stage 5)</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_HK_063</defName>
+    <label>Hollow Knight - Birthplace (Full)</label>
+    <clipPath>MusicExpanded/HollowKnight/84 Birthplace (Full)</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_HK_064</defName>
+    <label>Hollow Knight - Lace (Silksong Sample)</label>
+    <clipPath>MusicExpanded/HollowKnight/87 Lace (Silksong Sample)</clipPath>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_HK_065</defName>
+    <label>Hollow Knight - Bonebottom (Silksong Sample)</label>
+    <clipPath>MusicExpanded/HollowKnight/88 Bonebottom (Silksong Sample)</clipPath>
+  </MusicExpanded.TrackDef>
+
+  <!-- Main Menu & Credits -->
+  <MusicExpanded.TrackDef>
+    <defName>ME_HK_066</defName>
+    <label>Hollow Knight - Hollow Knight (Title Theme)</label>
+    <clipPath>MusicExpanded/HollowKnight/01 Hollow Knight (Title Theme)</clipPath>
+    <cue>MainMenu</cue>
+    <cue>Credits</cue>
+  </MusicExpanded.TrackDef>
+
+  <!-- Small Battles -->
+  <MusicExpanded.TrackDef>
+    <defName>ME_HK_067</defName>
+    <label>Hollow Knight - Greenpath (Action)</label>
+    <clipPath>MusicExpanded/HollowKnight/10 Greenpath (Action)</clipPath>
+    <cue>BattleSmall</cue>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_HK_068</defName>
+    <label>Hollow Knight - Suspense</label>
+    <clipPath>MusicExpanded/HollowKnight/12 Suspense</clipPath>
+    <cue>BattleSmall</cue>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_HK_069</defName>
+    <label>Hollow Knight - City of Tears (Action)</label>
+    <clipPath>MusicExpanded/HollowKnight/18 City of Tears (Action)</clipPath>
+    <cue>BattleSmall</cue>
+  </MusicExpanded.TrackDef>
+
+  <!-- Medium Battles -->
+  <MusicExpanded.TrackDef>
+    <defName>ME_HK_070</defName>
+    <label>Hollow Knight - Decisive Battle</label>
+    <clipPath>MusicExpanded/HollowKnight/08 Decisive Battle</clipPath>
+    <cue>BattleMedium</cue>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_HK_071</defName>
+    <label>Hollow Knight - Grimm</label>
+    <clipPath>MusicExpanded/HollowKnight/53 Grimm</clipPath>
+    <cue>BattleMedium</cue>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_HK_072</defName>
+    <label>Hollow Knight - White Defender</label>
+    <clipPath>MusicExpanded/HollowKnight/55 White Defender</clipPath>
+    <cue>BattleMedium</cue>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_HK_073</defName>
+    <label>Hollow Knight - Colosseum of Fools (Full)</label>
+    <clipPath>MusicExpanded/HollowKnight/67 Colosseum of Fools (Full)</clipPath>
+    <cue>BattleMedium</cue>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_HK_074</defName>
+    <label>Hollow Knight - Colosseum of Fools (Intensity 1)</label>
+    <clipPath>MusicExpanded/HollowKnight/68 Colosseum of Fools (Intensity 1)</clipPath>
+    <cue>BattleMedium</cue>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_HK_075</defName>
+    <label>Hollow Knight - Colosseum of Fools (Intensity 2)</label>
+    <clipPath>MusicExpanded/HollowKnight/69 Colosseum of Fools (Intensity 2)</clipPath>
+    <cue>BattleMedium</cue>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_HK_076</defName>
+    <label>Hollow Knight - Colosseum of Fools (Intensity 3)</label>
+    <clipPath>MusicExpanded/HollowKnight/70 Colosseum of Fools (Intensity 3)</clipPath>
+    <cue>BattleMedium</cue>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_HK_077</defName>
+    <label>Hollow Knight - Colosseum of Fools (Intensity 4)</label>
+    <clipPath>MusicExpanded/HollowKnight/71 Colosseum of Fools (Intensity 4)</clipPath>
+    <cue>BattleMedium</cue>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_HK_078</defName>
+    <label>Hollow Knight - Colosseum of Fools (Intensity 5)</label>
+    <clipPath>MusicExpanded/HollowKnight/72 Colosseum of Fools (Intensity 5)</clipPath>
+    <cue>BattleMedium</cue>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_HK_079</defName>
+    <label>Hollow Knight - Colosseum of Fools (Intensity 6)</label>
+    <clipPath>MusicExpanded/HollowKnight/73 Colosseum of Fools (Intensity 6)</clipPath>
+    <cue>BattleMedium</cue>
+  </MusicExpanded.TrackDef>
+
+  <!-- Large Battles -->
+  <MusicExpanded.TrackDef>
+    <defName>ME_HK_080</defName>
+    <label>Hollow Knight - Hornet</label>
+    <clipPath>MusicExpanded/HollowKnight/13 Hornet</clipPath>
+    <cue>BattleLarge</cue>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_HK_081</defName>
+    <label>Hollow Knight - Dung Defender</label>
+    <clipPath>MusicExpanded/HollowKnight/19 Dung Defender</clipPath>
+    <cue>BattleLarge</cue>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_HK_082</defName>
+    <label>Hollow Knight - Mantis Lords</label>
+    <clipPath>MusicExpanded/HollowKnight/29 Mantis Lords</clipPath>
+    <cue>BattleLarge</cue>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_HK_083</defName>
+    <label>Hollow Knight - Dream Battle</label>
+    <clipPath>MusicExpanded/HollowKnight/45 Dream Battle</clipPath>
+    <cue>BattleLarge</cue>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_HK_084</defName>
+    <label>Hollow Knight - Soul Master</label>
+    <clipPath>MusicExpanded/HollowKnight/76 Soul Master</clipPath>
+    <cue>BattleLarge</cue>
+  </MusicExpanded.TrackDef>
+
+  <!-- Legendary Battles -->
+  <MusicExpanded.TrackDef>
+    <defName>ME_HK_085</defName>
+    <label>Hollow Knight - Nightmare King</label>
+    <clipPath>MusicExpanded/HollowKnight/54 Nightmare King</clipPath>
+    <cue>BattleLegendary</cue>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_HK_086</defName>
+    <label>Hollow Knight - Final Boss Atrium</label>
+    <clipPath>MusicExpanded/HollowKnight/85 Final Boss Atrium</clipPath>
+    <cue>BattleLegendary</cue>
+  </MusicExpanded.TrackDef>
+  <MusicExpanded.TrackDef>
+    <defName>ME_HK_087</defName>
+    <label>Hollow Knight - Radiance</label>
+    <clipPath>MusicExpanded/HollowKnight/86 Radiance</clipPath>
+    <cue>BattleLegendary</cue>
+  </MusicExpanded.TrackDef>
+
+  <!-- Bonus: ensure we have exactly 88 defNames by adding the Title Theme’s Credits cue -->
+  <MusicExpanded.TrackDef>
+    <defName>ME_HK_088</defName>
+    <label>Hollow Knight - Hollow Knight (Title Theme) – Credits Only</label>
+    <clipPath>MusicExpanded/HollowKnight/01 Hollow Knight (Title Theme)</clipPath>
+    <cue>Credits</cue>
+  </MusicExpanded.TrackDef>
+
+</Defs>
